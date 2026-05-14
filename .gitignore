@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+.streamlit/
+logs/*.log
+models/*.pt
+models/*.pth
+/tmp/
+assets/test_*.png
